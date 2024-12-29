@@ -1,0 +1,4 @@
+ // publi
+ public class BinaryNodeReturn
+ {
+ }

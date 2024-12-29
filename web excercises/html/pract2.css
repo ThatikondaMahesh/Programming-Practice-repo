@@ -1,0 +1,26 @@
+
+html
+{
+	for-size:30px;
+}
+#outer-div1 
+{
+
+	height: 200xp;
+	width: 200px;
+	background-color:green;
+
+}
+#in-div1
+{
+	height: 50%;
+	width: 50%;
+	background-color: cyan;
+}
+#outer-div2
+{
+	height: : 200xp;
+	width: 200px;
+	background-color: orange;
+
+}

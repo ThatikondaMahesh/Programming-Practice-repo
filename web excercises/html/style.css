@@ -1,0 +1,23 @@
+
+p{
+
+	color: orange;
+}
+/*h4
+{
+	text-transform: uppercase;
+}*/
+.uppercase
+{
+  text-transform:uppercase;
+
+}
+.cursive
+{
+	font-family:cursive;
+
+}
+#description
+{
+	color: #4a148c;
+}

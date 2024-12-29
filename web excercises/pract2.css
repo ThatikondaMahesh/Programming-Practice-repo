@@ -1,0 +1,26 @@
+
+html
+{
+	font-size:30px;
+}
+#outer-div1 
+{
+	height: 400px;
+	width: 400px;
+background-color: green;
+}
+
+#outer-div2
+{
+	height: 400px;
+	width: 400px;
+
+
+	background-color: orange;
+
+}
+div
+{
+	display: inline-block;
+
+}

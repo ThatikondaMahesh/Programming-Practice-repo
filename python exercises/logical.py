@@ -1,0 +1,23 @@
+# proram to logical operations
+a=int(input("enter a value "))
+b=int(input("enter b value "))
+c=input("enter a string ")
+d=input("enter second string ")
+print(-a)
+print(+b)
+print(--b)
+a=a+1
+print(++a)
+print(a>>2)
+print(a<<2)
+print(a and b)
+print(a or b)
+print( not a) #
+print(c in d)
+print(c not in d)
+print(c is d)
+print(c is not d)
+print(c)
+print(d)
+print(a)
+print(b)
